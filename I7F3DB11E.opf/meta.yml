@@ -1,0 +1,38 @@
+id: I7F3DB11E
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T10:14:08.850883'
+last_modified: '2022-06-19T10:14:08.850895'
+parser: null
+source_metadata:
+  title: Autobiography of Jam dbyangs mkhyen brtsei dbang phyug (1524–1568); Lamdre
+    Lobshe, vol. ga, title no. 1
+  author: jam dbyangs mkhyen brtsei dbang phyug
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-08-26); unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:rdzong sar khams bye'i lnga rig slob gling / sde dge rdzong sar/ (dzkj)
+  - Editorial process:Mathias Fermer (mf), kun dga' rdo rje/ (Kathmandu) (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/561
+  bases:
+    bca9:
+      title: Autobiography of Jam dbyangs mkhyen brtsei dbang phyug (1524–1568); Lamdre
+        Lobshe, vol. ga, title no. 1
+      order: 1
+      base_file: bca9.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
